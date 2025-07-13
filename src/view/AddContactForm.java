@@ -228,7 +228,7 @@ public class AddContactForm extends JFrame implements ObserverSource {
 	private void closeAddContactFormIfOpen() {
 		for (Window window : Window.getWindows()) {
 			if (window instanceof AddContactForm) {
-				window.dispose(); // Close the open AddContactForm window
+				window.dispose(); // Close the currently open AddContactForm window
 			}
 		}
 	}
