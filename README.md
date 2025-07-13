@@ -50,7 +50,7 @@ src/
 
 1. Clone the repo:
    ```
-   git clone https://github.com/your-username/contact-manager-java-mvc.git
+   git clone https://github.com/NardineFakhreddine8554/contact-manager-java-mvc.git
    ```
 
 2. Open in Eclipse or IntelliJ.
